@@ -1,0 +1,29 @@
+{
+  "name": "angular-ui-bootstrap-modal",
+  "version": "4.4.7",
+  "description": "How to use angular-ui-bootstrap-modal",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yasharma/angular-ui-bootstrap-modal.git"
+  },
+  "keywords": [
+    "angular.js",
+    "ui-bootstrap",
+    "nodejs",
+    "npm",
+    "bootstrap"
+  ],
+  "author": "Yash Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yasharma/angular-ui-bootstrap-modal/issues"
+  },
+  "homepage": "https://github.com/yasharma/angular-ui-bootstrap-modal#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
